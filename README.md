@@ -1,7 +1,9 @@
 # The Coin Quest Eyrie
  This is a fast-paced game with a story-driven focus where the player must  collect coins while avoiding enemies. If the player contacts any enemy, the  game ends. 
 
-Theme / Setting / Genre
+![Hierarchy](https://github.com/akulag2/The-Coin-Quest-Eyrie/assets/122177225/32e3a87c-58d7-492f-a46a-7ffb4baf051b)
+
+ Theme/ Setting / Genre
 -	Action-Adventure, Puzzle, Fantasy
 Core Gameplay Mechanics Brief
 -	Coin Collection
