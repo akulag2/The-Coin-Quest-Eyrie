@@ -99,19 +99,19 @@ Assets Needed
               -	Attack
 
 -Schedule
-     -	<Environment Design #1>
+     -	Environment Design #1
          -	15 hrs
             -	main environment design
       
-     -	<Character Design #2>
+     -	Character Design #2
           -	5 hrs
              -	Main player
              -	Main enemy
-     -	<Level designing >
+     -	Level designing
           -	5 hrs
              -	All main maps
              -	Level designing
-     -	<Level designing >
+     -	Level designing
            -	5 hrs
              -	Enemies Searching script
              -	Enemies Blast script
