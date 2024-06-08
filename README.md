@@ -98,7 +98,7 @@ Assets Needed
               -	Running
               -	Attack
 
-Schedule
+-Schedule
      -	<Environment Design #1>
          -	15 hrs
             -	main environment design
@@ -115,3 +115,5 @@ Schedule
            -	5 hrs
              -	Enemies Searching script
              -	Enemies Blast script
+
+DEMO- https://drive.google.com/file/d/1IMVKPmA6tXHjSFGVou7WMZLykSlcKcpx/view?usp=drive_link
