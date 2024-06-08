@@ -53,10 +53,7 @@ James was honoured and asked what he needed to do. The Coin Spirit told him to c
 James agreed to the challenge and started his adventure. He went to many different worlds with unique challenges. He faced dangerous creatures, solved puzzles, and even battled other coin collectors. But he never gave up and was determined to collect all the ancient coins to bring balance back to the universe.
 After many months of searching, James collected the last of the ancient coins and returned to his world. He gave the coins to the Coin Spirit, who was pleased and called him a true coin collector and a worthy champion.
 As a reward, the Coin Spirit granted James one wish. He wished for a world where all coin collectors could come together and share their love for coins.
-So, the Coin Spirit created a new world called "Eyrie". It was a place where coin collectors from all over the universe could trade coins, learn about coin history, and share their stories.
- 
-James was happy because he finally found a place where he belonged, and he knew he would never stop collecting coins.
-
+So, the Coin Spirit created a new world called "Eyrie". It was a place where coin collectors from all over the universe could trade coins, learn about coin history, and share their stories. James was happy because he finally found a place where he belonged, and he knew he would never stop collecting coins.
 
 Assets Needed
 -	2D
@@ -79,8 +76,6 @@ Assets Needed
      -Enemy touch Player
      -Game over
 
-
-
 -	Code
     -	Character Scripts (Player spawn/Player Controller)
 -Player controller
@@ -97,7 +92,7 @@ Assets Needed
         -	NPC
               -	Running
               -	Attack
-
+                
 -Schedule
      -	Environment Design #1
          -	15 hrs
